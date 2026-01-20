@@ -1,4 +1,5 @@
 Hotel Management System
+
 A console-based Java application for managing hotel room reservations using MySQL database. Features include reserving rooms, viewing all reservations, retrieving room numbers by ID and guest name, updating reservations, and deleting by ID.
 ​
 
